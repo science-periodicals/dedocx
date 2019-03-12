@@ -1,0 +1,103 @@
+{
+  "name": "@scipe/dedocx",
+  "version": "2.0.2",
+  "description": "MS Word (docx) to HTML conversion",
+  "main": "dist/index.js",
+  "scripts": {
+    "format": "prettier --single-quote --write \"{src,test}/**/*.js\"",
+    "test": "mocha --reporter spec --require @babel/register --exit",
+    "build": "rm -rf dist/* && babel src --out-dir dist",
+    "watch": "babel --watch src --out-dir dist",
+    "update-readme": "babel-node src/lib/generate-minimum-docx-output.js",
+    "prepublish": "npm run build",
+    "postversion": "npm run update-readme && git push && git push --tags"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "@babel/plugin-transform-runtime",
+      "@babel/plugin-transform-async-to-generator",
+      "@babel/plugin-proposal-class-properties"
+    ]
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/science-periodicals/dedocx.git"
+  },
+  "keywords": [
+    "OOXML",
+    "open",
+    "office",
+    "xml",
+    "ECMA-376",
+    "html",
+    "conversion",
+    "converter",
+    "docx",
+    "OMML",
+    "Math",
+    "MathML",
+    "XSLT",
+    "transformation",
+    "tree",
+    "walker"
+  ],
+  "eslintConfig": {
+    "extends": "scienceai"
+  },
+  "contributors": [
+    "Robin Berjon",
+    "Tiffany Bogich",
+    "Sebastien Ballesteros"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/science-periodicals/dedocx/issues"
+  },
+  "homepage": "https://github.com/science-periodicals/dedocx",
+  "dependencies": {
+    "@babel/runtime": "^7.2.0",
+    "async": "^2.4.1",
+    "commander": "^2.19.0",
+    "debug": "^4.1.1",
+    "doi-regex": "^0.1.4",
+    "dom-node-types": "^1.0.1",
+    "escape-string-regexp": "^1.0.5",
+    "findit": "^2.0.0",
+    "fs-extra": "^7.0.1",
+    "iconv": "^2.3.2",
+    "js-beautify": "^1.8.9",
+    "jsdom": "^13.2.0",
+    "jszip": "^3.1.3",
+    "lodash": "^4.17.4",
+    "once": "^1.4.0",
+    "prettier": "^1.16.3",
+    "shortid": "^2.2.14",
+    "tmp": "0.0.33",
+    "url-regex": "^4.1.1",
+    "windows-1252": "^1.0.0",
+    "xmldom": "^0.1.27",
+    "xmlserializer": "^0.6.1",
+    "xpath": "0.0.24",
+    "yauzl": "^2.8.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.0",
+    "@babel/core": "^7.2.0",
+    "@babel/node": "^7.2.0",
+    "@babel/plugin-proposal-class-properties": "^7.2.1",
+    "@babel/plugin-transform-async-to-generator": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/register": "^7.0.0",
+    "eslint-config-scienceai": "^4.4.0",
+    "mocha": "^5.1.1",
+    "prettify-xml": "^1.2.0",
+    "selectron-test": "^2.0.0"
+  }
+}

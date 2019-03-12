@@ -1,0 +1,10 @@
+test/
+.ackrc
+.babelrc
+.eslintrc
+.gitignore
+scratch/
+
+blobs/
+ffmpeg-release-64bit-static.tar.xz
+ffmpeg-static/

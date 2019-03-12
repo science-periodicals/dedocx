@@ -1,0 +1,502 @@
+{
+  "Jay00": {
+    "Guid": "{FF7C035B-DC88-8045-9C73-E5D69D26B628}",
+    "RefOrder": 16,
+    "Tag": "Jay00",
+    "SourceType": "ConferenceProceedings",
+    "Title": "Reduced complexity PTS and new phase sequences for SLM to reduce PAP of an OFDM signal",
+    "Author": [
+      { "Person": [{ "First": "A.", "Middle": "D. S.", "Last": "Jayalath" }] },
+      { "Person": [{ "First": "Chintha", "Last": "Tellambura" }] },
+      { "Person": [{ "First": "H.", "Last": "Wu" }] }
+    ],
+    "Publisher": "IEEE",
+    "ConferenceName": "Vehicular Technology Conference Proceedings",
+    "City": "Tokyo",
+    "Pages": "1914-1917",
+    "Volume": 3,
+    "Year": 2000,
+    "StandardNumber": "doi: 10.1109/VETECS.2000.851605"
+  },
+  "Sch17": {
+    "Guid": "{0E57C22D-09C9-E447-96FB-D7DD0061E9A8}",
+    "RefOrder": 18,
+    "Tag": "Sch17",
+    "SourceType": "DocumentFromInternetSite",
+    "Title": "Era of ‘Biological Annihilation’ Is Underway, Scientists Warn",
+    "InternetSiteTitle": "The New York Times",
+    "Author": [{ "Person": [{ "First": "Tatiana", "Last": "Schlossbert" }] }],
+    "URL": "https://www.nytimes.com/2017/07/11/climate/mass-extinction-animal-species.html?_r=0",
+    "Day": 11,
+    "Month": "July",
+    "Year": 2017,
+    "DayAccessed": 10,
+    "MonthAccessed": "December",
+    "YearAccessed": 2017
+  },
+  "Chr71": {
+    "Guid": "{5D546AE5-567D-004E-A7B7-899B714F3C43}",
+    "RefOrder": 21,
+    "Tag": "Chr71",
+    "SourceType": "Patent",
+    "Title": "Toy building set",
+    "Editor": [{ "Person": [{ "First": "J.", "Last": "Interlego" }] }],
+    "Inventor": [
+      {
+        "Person": [
+          { "First": "Godtfred", "Middle": "Kirk", "Last": "Christensen" }
+        ]
+      }
+    ],
+    "CountryRegion": "US",
+    "PatentNumber": "3,597,875",
+    "Day": 10,
+    "Month": "August",
+    "Year": 1971
+  },
+  "NW200": {
+    "Guid": "{9F9C91A7-C821-3540-B03A-CAF0A40B2F4E}",
+    "RefOrder": 20,
+    "Tag": "NW200",
+    "SourceType": "Case",
+    "Title": "Beachy v. Becerra",
+    "Reporter": [{ "Person": [{ "Last": "N.W.2d" }] }],
+    "Counsel": [{ "Person": [{ "First": "H.", "Last": "Black" }] }],
+    "City": "Nebraska",
+    "Court": "Nebraska Supreme Court",
+    "CaseNumber": 299,
+    "Day": 3,
+    "Month": "November",
+    "Year": 2000
+  },
+  "Dan09": {
+    "Guid": "{253282DE-3265-9A4C-B7FB-A697213081D7}",
+    "RefOrder": 22,
+    "Tag": "Dan09",
+    "SourceType": "Performance",
+    "Title": "94 Meetings",
+    "Director": [{ "Person": [{ "First": "H.", "Last": "Klein" }] }],
+    "Performer": [{ "Person": [{ "First": "A.", "Last": "Poehler" }] }],
+    "Writer": [
+      { "Person": [{ "First": "G.", "Last": "Daniels" }] },
+      { "Person": [{ "First": "M.", "Last": "Schur" }] }
+    ],
+    "ProductionCompany": "Deedle-Dee Productions;",
+    "Theater": "Universal Media Studios",
+    "City": "Hollywood",
+    "StateProvince": "CA",
+    "CountryRegion": "USA",
+    "Day": 9,
+    "Month": "April ",
+    "Year": 2009
+  },
+  "Goy00": {
+    "Guid": "{64413EDC-AD14-CE40-B94E-35CCD23D6FD1}",
+    "RefOrder": 23,
+    "Tag": "Goy00",
+    "SourceType": "Art",
+    "Title": "The Family of Charles IV",
+    "Artist": [{ "Person": [{ "First": "Francisco", "Last": "Goya" }] }],
+    "Publisher": "Harcourt Brace",
+    "Institution": "Museo del Prado",
+    "City": "Madrid",
+    "CountryRegion": "Spain",
+    "PublicationTitle": "Gardener's Art through the Ages",
+    "Pages": 939,
+    "Year": 1800
+  },
+  "Dur13": {
+    "Guid": "{A3B72408-385D-5A49-9BAA-71AC9291B113}",
+    "RefOrder": 15,
+    "Tag": "Dur13",
+    "SourceType": "Report",
+    "ThesisType": "PhD Thesis",
+    "Title": "Bayesian Inference for Indirectly Observed Stochastic Processes, Applications to Epidemic Modelling",
+    "ShortTitle": "Bayesian Inference",
+    "Author": [{ "Person": [{ "First": "J", "Last": "Dureau" }] }],
+    "Publisher": "London School of Economics and Political Science",
+    "Department": "Department of Statistics",
+    "Institution": "London School of Economics and Political Science",
+    "City": "London",
+    "Year": 2013
+  },
+  "Tho161": {
+    "Guid": "{E31A0A88-36B9-F84E-8DC3-AEBCF6A6D5FC}",
+    "RefOrder": 4,
+    "Tag": "Tho161",
+    "SourceType": "BookSection",
+    "Title": "Walking",
+    "BookTitle": "The Making of the American Essay",
+    "Author": [
+      { "Person": [{ "First": "Henry", "Middle": "David", "Last": "Thoreau" }] }
+    ],
+    "Editor": [{ "Person": [{ "First": "John", "Last": "D’Agata" }] }],
+    "Edition": "1st Edition",
+    "Publisher": "Graywolf Press",
+    "City": "Minneapolis",
+    "Pages": "177-78",
+    "Year": 2016,
+    "StandardNumber": "ISBN: 1555979270"
+  },
+  "Ruf15": {
+    "Guid": "{5E1A86A7-99F0-C640-BB69-0C87AD53BA5E}",
+    "RefOrder": 7,
+    "Tag": "Ruf15",
+    "SourceType": "JournalArticle",
+    "Title": "Scientific journals and conflict of interest disclosure: what progress has been made?",
+    "Author": [{ "Person": [{ "First": "Kathleen", "Last": "Ruff" }] }],
+    "Publisher": "BioMed Central",
+    "JournalName": "Environmental Health",
+    "Comments": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4450857/",
+    "Issue": 2015,
+    "Pages": 45,
+    "Volume": 14,
+    "Day": 30,
+    "Month": "May",
+    "Year": 2015,
+    "StandardNumber": "PMC: 4450857"
+  },
+  "Kur87": {
+    "Guid": "{03874E70-4CD9-4C41-B72A-CF25A236D999}",
+    "RefOrder": 5,
+    "Tag": "Kur87",
+    "SourceType": "Book",
+    "Title": "The Founders’ Constitution",
+    "Editor": [
+      { "Person": [{ "First": "Philip", "Middle": "B", "Last": "Kurland" }] },
+      { "Person": [{ "First": "Ralph", "Last": "Lerner" }] }
+    ],
+    "Edition": "Web Edition",
+    "Publisher": "University of Chicago Press",
+    "City": "Chicago",
+    "Comments": "http://press-pubs.uchicago.edu/founders/",
+    "Year": 1987
+  },
+  "McQ95": {
+    "Guid": "{27F7A188-51BA-274C-BDC7-A9A68AA53A80}",
+    "RefOrder": 25,
+    "Tag": "McQ95",
+    "SourceType": "Film",
+    "Title": "The Usual Suspects",
+    "Director": [{ "Person": [{ "First": "Bryan", "Last": "Singer" }] }],
+    "Performer": [
+      { "Person": [{ "First": "K.", "Last": "Spacey" }] },
+      { "Person": [{ "First": "G.", "Last": "Byrne" }] },
+      { "Person": [{ "First": "C.", "Last": "Palminteri" }] },
+      { "Person": [{ "First": "S.", "Last": "Baldwin" }] },
+      { "Person": [{ "First": "B.", "Last": "del Toro" }] }
+    ],
+    "Writer": [{ "Person": [{ "First": "C.", "Last": "McQuarrie" }] }],
+    "Distributor": "Gramercy Pictures (I)",
+    "ProductionCompany": "Polygram",
+    "CountryRegion": "USA",
+    "Medium": "Screenplay",
+    "Year": 1995
+  },
+  "WHO08": {
+    "Guid": "{BB78B156-AB3E-2B41-8187-D30F47897BA2}",
+    "RefOrder": 14,
+    "Tag": "WHO08",
+    "SourceType": "Report",
+    "ThesisType": "Commission on Social Determinants of Health final report",
+    "Title": "Closing the gap in a generation: health equity through action on the social determinants of health",
+    "Author": [
+      {
+        "Corporate": "WHO Commission on Social Determinants of Health; World Health Organization"
+      }
+    ],
+    "Publisher": "World Health Organization",
+    "City": "Geneva",
+    "Comments": "http://apps.who.int/iris/bitstream/10665/43943/1/9789241563703_eng.pdf",
+    "Year": 2008,
+    "StandardNumber": "ISBN: 9789241563703 "
+  },
+  "Wal02": {
+    "Guid": "{01173660-9108-E742-8653-B9D36D710324}",
+    "RefOrder": 1,
+    "Tag": "Wal02",
+    "SourceType": "Book",
+    "Title": "The dream machine: JCR Licklider and the revolution that made computing personal",
+    "ShortTitle": "The dream machine",
+    "Author": [
+      { "Person": [{ "First": "M.", "Middle": "Mitchell", "Last": "Waldrop" }] }
+    ],
+    "Edition": "1st edition",
+    "Publisher": "Penguin USA",
+    "City": "New York",
+    "StateProvince": "NY",
+    "CountryRegion": "USA",
+    "Pages": 516,
+    "Year": 2002,
+    "StandardNumber": "ISBN: 014200135X"
+  },
+  "Ami84": {
+    "Guid": "{72ABE1D5-DD9C-C54C-AEA8-FC7125EBDC2D}",
+    "RefOrder": 19,
+    "Tag": "Ami84",
+    "SourceType": "Interview",
+    "Title": "Mimic and Moralist",
+    "BroadcastTitle": "Interviews with Britain’s Angry Young Men",
+    "Editor": [{ "Person": [{ "First": "M.", "Last": "Gaitskill" }] }],
+    "Translator": [{ "Person": [{ "First": "Roger", "Last": "Sony" }] }],
+    "Interviewer": [{ "Person": [{ "First": "Dale", "Last": "Salawak" }] }],
+    "ProducerName": [{ "Person": [{ "First": "Dale", "Last": "Salawak" }] }],
+    "Interviewee": [{ "Person": [{ "First": "Kingsley", "Last": "Amis" }] }],
+    "Compiler": [{ "Person": [{ "First": "C.", "Last": "Bock" }] }],
+    "Publisher": "Wiley",
+    "Broadcaster": "NBC",
+    "Station": "CNBC",
+    "City": "New York",
+    "StateProvince": "NY",
+    "CountryRegion": "USA",
+    "Pages": "129-50",
+    "Day": 21,
+    "Month": "June",
+    "Year": 1984,
+    "StandardNumber": "ISBN: 0893701599"
+  },
+  "And821": {
+    "Guid": "{4C90E755-6EC8-AD4D-B4F1-A53FCA09F90A}",
+    "RefOrder": 9,
+    "Tag": "And821",
+    "SourceType": "JournalArticle",
+    "Title": "Coevolution of hosts and parasites",
+    "Author": [
+      { "Person": [{ "First": "Roy", "Middle": "M.", "Last": "Anderson" }] },
+      { "Person": [{ "First": "Robert", "Middle": "M.", "Last": "May" }] }
+    ],
+    "Publisher": "Cambridge University Press",
+    "City": "Cambridge",
+    "JournalName": "Parasitology",
+    "Issue": 2,
+    "Pages": "411-426",
+    "Volume": 85,
+    "Month": "Oct",
+    "Year": 1982,
+    "StandardNumber": "doi: 10.1017/S0031182000055360"
+  },
+  "And82": {
+    "Guid": "{9FD8986B-3934-A349-A4B9-BC92F9FC0B9A}",
+    "RefOrder": 8,
+    "Tag": "And82",
+    "SourceType": "JournalArticle",
+    "Title": "Directly transmitted infections diseases: control by vaccination",
+    "Author": [
+      { "Person": [{ "First": "Roy", "Middle": "M.", "Last": "Anderson" }] },
+      { "Person": [{ "First": "Robert", "Middle": "M.", "Last": "May" }] }
+    ],
+    "Publisher": "American Association for the Advancement of Science",
+    "JournalName": "Science",
+    "Comments": "http://www.jstor.org/stable/1688362",
+    "Issue": 4536,
+    "Pages": "1053-1060",
+    "Volume": 215,
+    "Day": 26,
+    "Month": "Feb",
+    "Year": 1982,
+    "StandardNumber": "doi: 10.1126/science.7063839"
+  },
+  "Ceb17": {
+    "Guid": "{0A8289EE-EC10-D048-B1A1-0963FB1C9588}",
+    "RefOrder": 10,
+    "Tag": "Ceb17",
+    "SourceType": "JournalArticle",
+    "Title": "Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines",
+    "Author": [
+      { "Person": [{ "First": "Gerardo", "Last": "Ceballos" }] },
+      { "Person": [{ "First": "Paul", "Middle": "R.", "Last": "Ehrlich" }] },
+      { "Person": [{ "First": "Rodolfo", "Last": "Dirzo" }] }
+    ],
+    "Publisher": "National Academy of Sciences",
+    "JournalName": "PNAS",
+    "Issue": 30,
+    "Pages": "E6089-E6096",
+    "Volume": 114,
+    "Day": 23,
+    "Month": "May",
+    "Year": 2017,
+    "StandardNumber": "doi: 10.1073/pnas.1704949114"
+  },
+  "Gil02": {
+    "Guid": "{520AAF76-E120-AF47-9364-4CFEB957DB54}",
+    "RefOrder": 2,
+    "Tag": "Gil02",
+    "SourceType": "Book",
+    "Title": "Operative obstetrics",
+    "Author": [
+      { "Person": [{ "First": "Larry", "Middle": "C", "Last": "Gilstrap" }] },
+      { "Person": [{ "First": "F", "Middle": "Gary", "Last": "Cunningham" }] },
+      { "Person": [{ "First": "J", "Middle": "Peter", "Last": "Van Dorsten" }] }
+    ],
+    "Editor": [
+      { "Person": [{ "First": "Larry", "Middle": "C", "Last": "Gilstrap" }] },
+      { "Person": [{ "First": "F", "Middle": "Gary", "Last": "Cunningham" }] },
+      { "Person": [{ "First": "J", "Middle": "Peter", "Last": "Van Dorsten" }] }
+    ],
+    "Edition": "2nd Edition",
+    "Publisher": "McGraw-Hill Professional",
+    "City": "New York",
+    "Pages": 728,
+    "Year": 2002,
+    "StandardNumber": "ISBN: 0838573878"
+  },
+  "Kee10": {
+    "Guid": "{AA2B902C-0A9D-9F43-B34D-E5DDC2582126}",
+    "RefOrder": 12,
+    "Tag": "Kee10",
+    "SourceType": "JournalArticle",
+    "Title": "Impacts of biodiversity on the emergence and transmission of infectious diseases",
+    "Author": [
+      { "Person": [{ "First": "Felicia", "Last": "Keesing" }] },
+      { "Person": [{ "First": "Lisa", "Middle": "K.", "Last": "Belden" }] },
+      { "Person": [{ "First": "Peter", "Last": "Daszak" }] },
+      { "Person": [{ "First": "Andrew", "Last": "Dobson" }] },
+      { "Person": [{ "First": "C.", "Middle": "Drew", "Last": "Harvell" }] },
+      { "Person": [{ "First": "Robert", "Middle": "D.", "Last": "Holt" }] },
+      { "Person": [{ "First": "Peter", "Last": "Hudson" }] },
+      { "Person": [{ "First": "Anna", "Last": "Jolles" }] },
+      { "Person": [{ "First": "Kate", "Middle": "E.", "Last": "Jones" }] },
+      {
+        "Person": [{ "First": "Charles,", "Middle": "E.", "Last": "Mitchell" }]
+      },
+      { "Person": [{ "First": "Samuel", "Middle": "S.", "Last": "Myers" }] },
+      { "Person": [{ "First": "T.", "Last": "Bogich" }] },
+      { "Person": [{ "First": "Richard", "Middle": "S.", "Last": "Ostfeld" }] }
+    ],
+    "Publisher": "Springer-Nature",
+    "JournalName": "Nature",
+    "Issue": 7324,
+    "Pages": "647-652",
+    "Volume": 468,
+    "Day": 1,
+    "Month": "Dec",
+    "Year": 2010,
+    "StandardNumber": "doi: 10.1038/nature09575"
+  },
+  "Kil11": {
+    "Guid": "{CA1105F0-48B9-9F4A-98FB-95DCD64FF18A}",
+    "RefOrder": 6,
+    "Tag": "Kil11",
+    "SourceType": "JournalArticle",
+    "Title": "Globalization, Land Use, and the Invasion of West Nile Virus",
+    "Author": [
+      { "Person": [{ "First": "A.", "Middle": "Marm", "Last": "Kilpatrick" }] }
+    ],
+    "Publisher": "American Association for the Advancement of Science",
+    "JournalName": "Science",
+    "Comments": "http://science.sciencemag.org/content/334/6054/323",
+    "Issue": 6054,
+    "Pages": "323-327",
+    "Volume": 334,
+    "Day": 21,
+    "Month": "October",
+    "Year": 2011,
+    "StandardNumber": "doi: 10.1126/science.1201010"
+  },
+  "Oli17": {
+    "Guid": "{8E7CAE74-7A03-674A-8522-55B85CF48D52}",
+    "RefOrder": 11,
+    "Tag": "Oli17",
+    "SourceType": "JournalArticle",
+    "Title": "Host and viral traits predict zoonotic spillover from mammals",
+    "Author": [
+      { "Person": [{ "First": "Kevin", "Middle": "J.", "Last": "Olival" }] },
+      {
+        "Person": [{ "First": "Parviez", "Middle": "R.", "Last": "Hosseini" }]
+      },
+      { "Person": [{ "First": "Carlos", "Last": "Zambrana-Torrelio" }] },
+      { "Person": [{ "First": "Noam", "Last": "Ross" }] },
+      { "Person": [{ "First": "Tiffany", "Middle": "L.", "Last": "Bogich" }] },
+      { "Person": [{ "First": "Peter", "Last": "Daszak" }] }
+    ],
+    "Publisher": "Springer-Nature",
+    "JournalName": "Nature",
+    "Issue": 7660,
+    "Pages": "646-650",
+    "Volume": 546,
+    "Day": 29,
+    "Month": "June",
+    "Year": 2017,
+    "StandardNumber": "doi: 10.1038/nature22975"
+  },
+  "deS00": {
+    "Guid": "{623FA82C-F230-DC49-88AB-F5FFBAF36463}",
+    "RefOrder": 3,
+    "Tag": "deS00",
+    "SourceType": "Book",
+    "Title": "The Little Prince",
+    "Author": [
+      { "Person": [{ "First": "Antoine", "Last": "de Saint-Exupéry" }] }
+    ],
+    "Translator": [
+      { "Person": [{ "First": "Richard", "Last": "Howard" }] },
+      { "Person": [{ "First": "Dom", "Middle": "Marcos", "Last": "Barbosa" }] },
+      { "Person": [{ "First": "Melina", "Last": "Karakosta" }] }
+    ],
+    "Edition": "English Edition",
+    "Publisher": "Harcourt, Inc.",
+    "City": "New York",
+    "StateProvince": "NY",
+    "CountryRegion": "USA",
+    "Pages": 96,
+    "Year": 2000,
+    "StandardNumber": "ISBN: 0156012197"
+  },
+  "Ber17": {
+    "Guid": "{94E27B46-B0AD-E548-BAB7-46B17FAA1EB9}",
+    "RefOrder": 24,
+    "Tag": "Ber17",
+    "SourceType": "SoundRecording",
+    "Title": "Symphony No. 3, Kaddish",
+    "AlbumTitle": "Something's coming: Bernstein's Philharmonic",
+    "ShortTitle": "Symphony",
+    "Composer": [{ "Person": [{ "First": "L.", "Last": "Bernstein" }] }],
+    "Artist": [{ "Person": [{ "First": "L.", "Last": "Bernstein" }] }],
+    "Conductor": [{ "Person": [{ "First": "L.", "Last": "Slatkin" }] }],
+    "Performer": [
+      { "Person": [{ "First": "J.", "Last": "Irons" }] },
+      { "Person": [{ "First": "C.", "Last": "Phelps" }] },
+      { "Person": [{ "First": "C.", "Last": "Brey" }] },
+      { "Person": [{ "First": "T.", "Last": "Wilson" }] }
+    ],
+    "ProductionCompany": "New York Philharmonic",
+    "City": "New York",
+    "StateProvince": "NY",
+    "CountryRegion": "USA",
+    "Medium": "Compact Disc",
+    "RecordingNumber": 114,
+    "Year": 2017
+  },
+  "WHO14": {
+    "Guid": "{EEADDB93-CDA3-5042-8EB7-2A17D2659F64}",
+    "RefOrder": 13,
+    "Tag": "WHO14",
+    "SourceType": "JournalArticle",
+    "Title": "Ebola virus disease in West Africa—the first 9 months of the epidemic and forward projections.",
+    "Author": [{ "Corporate": "WHO Ebola Response Team; Smith, John; UNESCO" }],
+    "JournalName": "The New England Journal of Medicine",
+    "Issue": 16,
+    "Pages": "1481-1495",
+    "Volume": 371,
+    "Day": 16,
+    "Month": "October",
+    "Year": 2014,
+    "StandardNumber": "doi: 10.1056/NEJMoa1411100"
+  },
+  "Cen171": {
+    "Guid": "{A4B30F3A-BC38-5A47-A6F1-5BF55DAA01D7}",
+    "RefOrder": 17,
+    "Tag": "Cen171",
+    "SourceType": "InternetSite",
+    "Title": "Influenza (Flu)",
+    "Author": [{ "Corporate": "CDC" }],
+    "ProductionCompany": "CDC",
+    "URL": "https://www.cdc.gov/flu/index.htm",
+    "Day": 8,
+    "Month": "December",
+    "Year": 2017,
+    "DayAccessed": 10,
+    "MonthAccessed": "December",
+    "YearAccessed": 2017
+  }
+}
