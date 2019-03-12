@@ -1,6 +1,6 @@
 {
   "name": "@scipe/dedocx",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "description": "MS Word (docx) to HTML conversion",
   "main": "dist/index.js",
   "scripts": {
