@@ -155,7 +155,15 @@ The `predigest` pipeline is as follows:
 
 All plugins have the same structure. They export a function that can be called with optional
 configuration. That function returns another function, which is a simple transformation step that
-expects a context and a callback.
+expects a context and a callback (see below for error handling).
+
+```js
+function dedocxPluginCreator(config) {
+  return function dedocxPlugin(ctx, callback) {
+    // mutate `ctx` and call `callback` when done or the plugin encounters a non recoverable error
+  };
+}
+```
 
 ## Error Handling
 
