@@ -4,7 +4,7 @@
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-Swiss Army Chainsaw for DOCX to HTML conversion.
+[sci.pe](https://sci.pe) low level library for OOXML to HTML conversion.
 
 This library converts from MS Word docx files to HTML in the dumbest way
 possible. That is to say that it does almost nothing beyond producing a lot of
