@@ -1,6 +1,8 @@
 # dedocx
 
-[![CircleCI](https://circleci.com/gh/scienceai/dedocx.svg?style=svg&circle-token=6c6a2dca40c4d4d1d558610df5eabe186c9a4e53)](https://circleci.com/gh/scienceai/dedocx)
+[![CircleCI](https://circleci.com/gh/science-periodicals/dedocx.svg?style=svg)](https://circleci.com/gh/science-periodicals/dedocx)
+
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Swiss Army Chainsaw for DOCX to HTML conversion.
 
