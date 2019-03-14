@@ -52,8 +52,8 @@
   },
   "contributors": [
     "Robin Berjon",
-    "Tiffany Bogich",
-    "Sebastien Ballesteros"
+    "Tiffany Bogich <tiffany@sci.pe> (https://sci.pe)",
+    "Sebastien Ballesteros <sebastien@sci.pe> (https://sci.pe)"
   ],
   "license": "Apache-2.0",
   "bugs": {

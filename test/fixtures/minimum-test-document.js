@@ -1,5 +1,5 @@
-import React from 'react';
-const jsx = (
+import React from 'react'; 
+ const jsx = (
   <body>
     <h1 data-dedocx-props={{ elementType: 'para', pStyle: 'Heading1' }}>
       Document title
@@ -34,7 +34,7 @@ const jsx = (
     <blockquote data-dedocx-props={{ elementType: 'para', pStyle: 'Quote' }}>
       <p>- John Smith</p>
     </blockquote>
-    <p>
+    <p id="_GoBack">
       Paragraph with a{' '}
       <a
         data-w_history="1"
@@ -42,13 +42,13 @@ const jsx = (
           id: 'rId8',
           type:
             'http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink',
-          target: 'https://science.ai/',
+          target: 'https://sci.pe/',
           targetMode: 'external',
           fullPath:
-            '/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/https:/science.ai',
-          packagePath: '/word/https:/science.ai'
+            '/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/https:/sci.pe',
+          packagePath: '/word/https:/sci.pe'
         }}
-        href="https://science.ai/"
+        href="https://sci.pe/"
       >
         <span data-dedocx-props={{ elementType: 'run', rStyle: 'Hyperlink' }}>
           hyperlink
@@ -183,13 +183,13 @@ const jsx = (
     </p>
     <p />
     <p>
-      <span className="commentRangeStart" id="commentRangeStart_HpvhPv8TW_4" />
+      <span className="commentRangeStart" id="commentRangeStart_1c4sX6hPO_5" />
       Commented text
-      <span className="commentRangeEnd" id="commentRangeEnd_HpvhPv8TW_4" />
+      <span className="commentRangeEnd" id="commentRangeEnd_1c4sX6hPO_5" />
       <span
         data-dedocx-props={{ elementType: 'run', rStyle: 'CommentReference' }}
       >
-        <span className="commentReference" id="commentReference_HpvhPv8TW_4" />
+        <span className="commentReference" id="commentReference_1c4sX6hPO_5" />
       </span>{' '}
       <span data-dedocx-props={{ elementType: 'run', highlight: 'yellow' }}>
         Highlights
@@ -387,7 +387,7 @@ const jsx = (
                   </span>
                   <span className="pic_blipFill">
                     <img
-                      src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image1.png"
+                      src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image1.png"
                       data-dedocx-rel-target="media/image1.png"
                       data-dedocx-rel-package-path="/word/media/image1.png"
                     />
@@ -473,7 +473,7 @@ const jsx = (
             className="v_shape"
           >
             <img
-              src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image2.jpeg"
+              src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image2.jpeg"
               data-dedocx-rel-target="media/image2.jpeg"
               data-dedocx-rel-package-path="/word/media/image2.jpeg"
             />
@@ -484,7 +484,7 @@ const jsx = (
     </p>
     <p
       data-dedocx-props={{ elementType: 'para', keepNext: true }}
-      data-dedocx-caption-group="CqTa3kpkig"
+      data-dedocx-caption-group="Ex1eIngyHw"
       data-dedocx-caption-target-type="image"
     >
       <span data-dedocx-props={{ elementType: 'run', noProof: true }}>
@@ -548,7 +548,7 @@ const jsx = (
                   </span>
                   <span className="pic_blipFill">
                     <img
-                      src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image3.png"
+                      src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image3.png"
                       data-dedocx-rel-target="media/image3.png"
                       data-dedocx-rel-package-path="/word/media/image3.png"
                     />
@@ -581,7 +581,7 @@ const jsx = (
         </span>
       </span>
     </p>
-    <div className="dedocx-caption" data-dedocx-caption-group="CqTa3kpkig">
+    <div className="dedocx-caption" data-dedocx-caption-group="Ex1eIngyHw">
       <p
         data-dedocx-props={{ elementType: 'para', pStyle: 'Caption' }}
         id="_Ref521321604"
@@ -599,12 +599,12 @@ const jsx = (
     </div>
     <div
       className="dedocx-picture-grid"
-      data-dedocx-caption-group="FblTffM8sm"
+      data-dedocx-caption-group="FZMQtV2gdL"
       data-dedocx-caption-target-type="multi-image"
     >
       <div className="dedocx-picture-grid-item">
         <img
-          src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image4.jpg"
+          src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image4.jpg"
           data-dedocx-rel-target="media/image4.jpg"
           data-dedocx-rel-package-path="/word/media/image4.jpg"
           style="width: 4.14cm; "
@@ -613,7 +613,7 @@ const jsx = (
       </div>
       <div className="dedocx-picture-grid-item">
         <img
-          src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image5.jpg"
+          src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image5.jpg"
           data-dedocx-rel-target="media/image5.jpg"
           data-dedocx-rel-package-path="/word/media/image5.jpg"
           style="width: 4.14cm; "
@@ -621,7 +621,7 @@ const jsx = (
         <span className="dedocx-picture-grid-label">B</span>
       </div>
     </div>
-    <div className="dedocx-caption" data-dedocx-caption-group="FblTffM8sm">
+    <div className="dedocx-caption" data-dedocx-caption-group="FZMQtV2gdL">
       <p data-dedocx-props={{ elementType: 'para', pStyle: 'Caption' }}>
         <span className="dedocx-label">
           Figure{' '}
@@ -635,7 +635,7 @@ const jsx = (
       </p>
     </div>
     <p />
-    <div className="dedocx-caption" data-dedocx-caption-group="U3JFQYvZIj">
+    <div className="dedocx-caption" data-dedocx-caption-group="iSz49CS2sS">
       <p
         data-dedocx-props={{
           elementType: 'para',
@@ -669,7 +669,7 @@ const jsx = (
           noVBand: true
         }
       }}
-      data-dedocx-caption-group="U3JFQYvZIj"
+      data-dedocx-caption-group="iSz49CS2sS"
       data-dedocx-caption-target-type="table"
     >
       <thead>
@@ -920,7 +920,7 @@ const jsx = (
                             </span>
                             <span className="pic_blipFill">
                               <img
-                                src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image6.png"
+                                src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image6.png"
                                 data-dedocx-rel-target="media/image6.png"
                                 data-dedocx-rel-package-path="/word/media/image6.png"
                               />
@@ -1058,7 +1058,7 @@ const jsx = (
                           </span>
                           <span className="pic_blipFill">
                             <img
-                              src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image7.png"
+                              src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image7.png"
                               data-dedocx-rel-target="media/image7.png"
                               data-dedocx-rel-package-path="/word/media/image7.png"
                             />
@@ -1600,7 +1600,7 @@ const jsx = (
       </span>
     </p>
     <aside>
-      <div className="dedocx-caption" data-dedocx-caption-group="0T2sh2qoM0">
+      <div className="dedocx-caption" data-dedocx-caption-group="aKtM8F0c4L">
         <p
           data-dedocx-props={{
             elementType: 'para',
@@ -1715,7 +1715,7 @@ AAQA8wAAALIFAAAAAA==
             <aside>
               <div
                 className="dedocx-caption"
-                data-dedocx-caption-group="d66lPE5hH4"
+                data-dedocx-caption-group="LdTIvuKPQj"
               >
                 <p
                   data-dedocx-props={{
@@ -1827,7 +1827,7 @@ AAQA8wAAALIFAAAAAA==
       </span>
     </p>
     <aside>
-      <div className="dedocx-caption" data-dedocx-caption-group="u4a34MWAf4">
+      <div className="dedocx-caption" data-dedocx-caption-group="UHRKMp_KuQ">
         <p
           data-dedocx-props={{
             elementType: 'para',
@@ -1900,7 +1900,7 @@ AAQA8wAAALIFAAAAAA==
                     </span>
                     <span className="pic_blipFill">
                       <img
-                        src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image8.png"
+                        src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image8.png"
                         data-dedocx-rel-target="media/image8.png"
                         data-dedocx-rel-package-path="/word/media/image8.png"
                       />
@@ -1980,7 +1980,7 @@ AAQA8wAAALIFAAAAAA==
                     </span>
                     <span className="pic_blipFill">
                       <img
-                        src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image9.png"
+                        src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image9.png"
                         data-dedocx-rel-target="media/image9.png"
                         data-dedocx-rel-package-path="/word/media/image9.png"
                       />
@@ -2084,7 +2084,7 @@ AAQA8wAAALIFAAAAAA==
             <aside>
               <div
                 className="dedocx-caption"
-                data-dedocx-caption-group="fbvsJWewdC"
+                data-dedocx-caption-group="PfBghBMWK5"
               >
                 <p
                   data-dedocx-props={{
@@ -2171,9 +2171,9 @@ AAQA8wAAALIFAAAAAA==
                             </span>
                             <span className="pic_blipFill">
                               <img
-                                src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image80.png"
-                                data-dedocx-rel-target="media/image80.png"
-                                data-dedocx-rel-package-path="/word/media/image80.png"
+                                src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image8.png"
+                                data-dedocx-rel-target="media/image8.png"
+                                data-dedocx-rel-package-path="/word/media/image8.png"
                               />
                               <span className="a_stretch">
                                 <span className="a_fillRect" />
@@ -2259,9 +2259,9 @@ AAQA8wAAALIFAAAAAA==
                             </span>
                             <span className="pic_blipFill">
                               <img
-                                src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/media/image90.png"
-                                data-dedocx-rel-target="media/image90.png"
-                                data-dedocx-rel-package-path="/word/media/image90.png"
+                                src="/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image9.png"
+                                data-dedocx-rel-target="media/image9.png"
+                                data-dedocx-rel-package-path="/word/media/image9.png"
                               />
                               <span className="a_stretch">
                                 <span className="a_fillRect" />
@@ -2311,7 +2311,7 @@ AAQA8wAAALIFAAAAAA==
         keepNext: true,
         pStyle: 'BlockCode'
       }}
-      data-dedocx-caption-group="gXUqoxDzVY"
+      data-dedocx-caption-group="Oh2Pc8kAck"
       data-dedocx-caption-target-type="code"
     >
       <code># standard tests</code>
@@ -2352,7 +2352,7 @@ AAQA8wAAALIFAAAAAA==
     >
       <code>summary(d)</code>
     </pre>
-    <div className="dedocx-caption" data-dedocx-caption-group="gXUqoxDzVY">
+    <div className="dedocx-caption" data-dedocx-caption-group="Oh2Pc8kAck">
       <p data-dedocx-props={{ elementType: 'para', pStyle: 'Caption' }}>
         <span className="dedocx-label">
           Code{' '}
@@ -2398,7 +2398,7 @@ AAQA8wAAALIFAAAAAA==
         </mfrac>
       </math>
     </p>
-    <div className="dedocx-caption" data-dedocx-caption-group="aRbTMM-Inm">
+    <div className="dedocx-caption" data-dedocx-caption-group="tamgsX3fc4">
       <p
         data-dedocx-props={{
           elementType: 'para',
@@ -2418,7 +2418,7 @@ AAQA8wAAALIFAAAAAA==
       </p>
     </div>
     <p
-      data-dedocx-caption-group="aRbTMM-Inm"
+      data-dedocx-caption-group="tamgsX3fc4"
       data-dedocx-caption-target-type="math"
     >
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
@@ -2487,19 +2487,19 @@ AAQA8wAAALIFAAAAAA==
     <p />
     <p
       data-dedocx-props={{ elementType: 'para', keepNext: true }}
-      data-dedocx-caption-group="xu1b8muCXM"
+      data-dedocx-caption-group="2fRuGeheW3"
       data-dedocx-caption-target-type="hyper"
     >
       <a
         data-w_history="1"
         data-sans_rel={{
-          id: 'rId26',
+          id: 'rId24',
           type:
             'http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink',
           target: 'https://www.ncbi.nlm.nih.gov/nuccore/NC_012532.1',
           targetMode: 'external',
           fullPath:
-            '/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-3359Z0QCTaVtBYW4/word/https:/www.ncbi.nlm.nih.gov/nuccore/NC_012532.1',
+            '/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/https:/www.ncbi.nlm.nih.gov/nuccore/NC_012532.1',
           packagePath: '/word/https:/www.ncbi.nlm.nih.gov/nuccore/NC_012532.1'
         }}
         href="https://www.ncbi.nlm.nih.gov/nuccore/NC_012532.1"
@@ -2509,11 +2509,8 @@ AAQA8wAAALIFAAAAAA==
         </span>
       </a>
     </p>
-    <div className="dedocx-caption" data-dedocx-caption-group="xu1b8muCXM">
-      <p
-        data-dedocx-props={{ elementType: 'para', pStyle: 'Caption' }}
-        id="_GoBack"
-      >
+    <div className="dedocx-caption" data-dedocx-caption-group="2fRuGeheW3">
+      <p data-dedocx-props={{ elementType: 'para', pStyle: 'Caption' }}>
         <span className="dedocx-label">
           Supporting Dataset{' '}
           <span
