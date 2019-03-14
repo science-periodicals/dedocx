@@ -1,16 +1,16 @@
 {
   "/[Content_Types].xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/[Content_Types].xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/[Content_Types].xml",
     "packagePath": "/[Content_Types].xml",
     "mediaType": "application/xml"
   },
   "/_rels/.rels": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/_rels/.rels",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/_rels/.rels",
     "packagePath": "/_rels/.rels",
     "mediaType": "application/vnd.openxmlformats-package.relationships+xml"
   },
   "/customXml/item1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/customXml/item1.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/customXml/item1.xml",
     "packagePath": "/customXml/item1.xml",
     "mediaType": "application/xml",
     "rels": [
@@ -19,43 +19,43 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps",
         "target": "itemProps1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/customXml/itemProps1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/customXml/itemProps1.xml",
         "packagePath": "/customXml/itemProps1.xml"
       }
     ]
   },
   "/customXml/itemProps1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/customXml/itemProps1.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/customXml/itemProps1.xml",
     "packagePath": "/customXml/itemProps1.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.customXmlProperties+xml"
   },
   "/docProps/app.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/docProps/app.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/docProps/app.xml",
     "packagePath": "/docProps/app.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.extended-properties+xml"
   },
   "/docProps/core.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/docProps/core.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/docProps/core.xml",
     "packagePath": "/docProps/core.xml",
     "mediaType": "application/vnd.openxmlformats-package.core-properties+xml"
   },
   "/word/comments.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/comments.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/comments.xml",
     "packagePath": "/word/comments.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml"
   },
   "/word/commentsExtended.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/commentsExtended.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/commentsExtended.xml",
     "packagePath": "/word/commentsExtended.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.commentsExtended+xml"
   },
   "/word/commentsIds.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/commentsIds.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/commentsIds.xml",
     "packagePath": "/word/commentsIds.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.commentsIds+xml"
   },
   "/word/document.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/document.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/document.xml",
     "packagePath": "/word/document.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml",
     "rels": [
@@ -64,7 +64,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
         "target": "https://sci.pe/",
         "targetMode": "external",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/https:/sci.pe",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/https:/sci.pe",
         "packagePath": "/word/https:/sci.pe"
       },
       {
@@ -72,7 +72,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "media/image2.jpeg",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image2.jpeg",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image2.jpeg",
         "packagePath": "/word/media/image2.jpeg"
       },
       {
@@ -80,7 +80,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramColors",
         "target": "diagrams/colors1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/colors1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/colors1.xml",
         "packagePath": "/word/diagrams/colors1.xml"
       },
       {
@@ -88,7 +88,7 @@
         "type": "http://schemas.microsoft.com/office/2011/relationships/people",
         "target": "people.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/people.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/people.xml",
         "packagePath": "/word/people.xml"
       },
       {
@@ -96,7 +96,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles",
         "target": "styles.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/styles.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/styles.xml",
         "packagePath": "/word/styles.xml"
       },
       {
@@ -104,7 +104,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "media/image7.png",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image7.png",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image7.png",
         "packagePath": "/word/media/image7.png"
       },
       {
@@ -112,7 +112,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/endnotes",
         "target": "endnotes.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/endnotes.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/endnotes.xml",
         "packagePath": "/word/endnotes.xml"
       },
       {
@@ -120,7 +120,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "media/image1.png",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image1.png",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image1.png",
         "packagePath": "/word/media/image1.png"
       },
       {
@@ -128,7 +128,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramQuickStyle",
         "target": "diagrams/quickStyle1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/quickStyle1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/quickStyle1.xml",
         "packagePath": "/word/diagrams/quickStyle1.xml"
       },
       {
@@ -136,7 +136,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable",
         "target": "fontTable.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/fontTable.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/fontTable.xml",
         "packagePath": "/word/fontTable.xml"
       },
       {
@@ -144,7 +144,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering",
         "target": "numbering.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/numbering.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/numbering.xml",
         "packagePath": "/word/numbering.xml"
       },
       {
@@ -152,7 +152,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramLayout",
         "target": "diagrams/layout1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/layout1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/layout1.xml",
         "packagePath": "/word/diagrams/layout1.xml"
       },
       {
@@ -160,7 +160,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "media/image6.png",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image6.png",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image6.png",
         "packagePath": "/word/media/image6.png"
       },
       {
@@ -168,7 +168,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml",
         "target": "../customXml/item1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/customXml/item1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/customXml/item1.xml",
         "packagePath": "/customXml/item1.xml"
       },
       {
@@ -176,7 +176,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes",
         "target": "footnotes.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/footnotes.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/footnotes.xml",
         "packagePath": "/word/footnotes.xml"
       },
       {
@@ -184,7 +184,7 @@
         "type": "http://schemas.microsoft.com/office/2016/09/relationships/commentsIds",
         "target": "commentsIds.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/commentsIds.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/commentsIds.xml",
         "packagePath": "/word/commentsIds.xml"
       },
       {
@@ -192,7 +192,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
         "target": "https://www.ncbi.nlm.nih.gov/nuccore/NC_012532.1",
         "targetMode": "external",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/https:/www.ncbi.nlm.nih.gov/nuccore/NC_012532.1",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/https:/www.ncbi.nlm.nih.gov/nuccore/NC_012532.1",
         "packagePath": "/word/https:/www.ncbi.nlm.nih.gov/nuccore/NC_012532.1"
       },
       {
@@ -200,7 +200,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings",
         "target": "webSettings.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/webSettings.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/webSettings.xml",
         "packagePath": "/word/webSettings.xml"
       },
       {
@@ -208,7 +208,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/diagramData",
         "target": "diagrams/data1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/data1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/data1.xml",
         "packagePath": "/word/diagrams/data1.xml"
       },
       {
@@ -216,7 +216,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "media/image9.png",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image9.png",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image9.png",
         "packagePath": "/word/media/image9.png"
       },
       {
@@ -224,7 +224,7 @@
         "type": "http://schemas.microsoft.com/office/2011/relationships/commentsExtended",
         "target": "commentsExtended.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/commentsExtended.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/commentsExtended.xml",
         "packagePath": "/word/commentsExtended.xml"
       },
       {
@@ -232,7 +232,7 @@
         "type": "http://schemas.microsoft.com/office/2007/relationships/diagramDrawing",
         "target": "diagrams/drawing1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/drawing1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/drawing1.xml",
         "packagePath": "/word/diagrams/drawing1.xml"
       },
       {
@@ -240,7 +240,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings",
         "target": "settings.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/settings.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/settings.xml",
         "packagePath": "/word/settings.xml"
       },
       {
@@ -248,7 +248,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/comments",
         "target": "comments.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/comments.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/comments.xml",
         "packagePath": "/word/comments.xml"
       },
       {
@@ -256,7 +256,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "media/image3.png",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image3.png",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image3.png",
         "packagePath": "/word/media/image3.png"
       },
       {
@@ -264,7 +264,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "media/image8.png",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image8.png",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image8.png",
         "packagePath": "/word/media/image8.png"
       },
       {
@@ -272,68 +272,68 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme",
         "target": "theme/theme1.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/theme/theme1.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/theme/theme1.xml",
         "packagePath": "/word/theme/theme1.xml"
       }
     ]
   },
   "/word/endnotes.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/endnotes.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/endnotes.xml",
     "packagePath": "/word/endnotes.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml"
   },
   "/word/fontTable.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/fontTable.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/fontTable.xml",
     "packagePath": "/word/fontTable.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml"
   },
-  "/word/numbering.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/numbering.xml",
-    "packagePath": "/word/numbering.xml",
-    "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"
-  },
   "/word/footnotes.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/footnotes.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/footnotes.xml",
     "packagePath": "/word/footnotes.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"
   },
+  "/word/numbering.xml": {
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/numbering.xml",
+    "packagePath": "/word/numbering.xml",
+    "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"
+  },
   "/word/people.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/people.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/people.xml",
     "packagePath": "/word/people.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.people+xml"
   },
   "/word/settings.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/settings.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/settings.xml",
     "packagePath": "/word/settings.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"
   },
   "/word/styles.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/styles.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/styles.xml",
     "packagePath": "/word/styles.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"
   },
   "/word/webSettings.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/webSettings.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/webSettings.xml",
     "packagePath": "/word/webSettings.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml"
   },
   "/customXml/_rels/item1.xml.rels": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/customXml/_rels/item1.xml.rels",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/customXml/_rels/item1.xml.rels",
     "packagePath": "/customXml/_rels/item1.xml.rels",
     "mediaType": "application/vnd.openxmlformats-package.relationships+xml"
   },
   "/word/_rels/document.xml.rels": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/_rels/document.xml.rels",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/_rels/document.xml.rels",
     "packagePath": "/word/_rels/document.xml.rels",
     "mediaType": "application/vnd.openxmlformats-package.relationships+xml"
   },
   "/word/diagrams/colors1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/colors1.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/colors1.xml",
     "packagePath": "/word/diagrams/colors1.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.drawingml.diagramColors+xml"
   },
   "/word/diagrams/data1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/data1.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/data1.xml",
     "packagePath": "/word/diagrams/data1.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml",
     "rels": [
@@ -342,7 +342,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "../media/image5.jpg",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image5.jpg",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image5.jpg",
         "packagePath": "/word/media/image5.jpg"
       },
       {
@@ -350,13 +350,23 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "../media/image4.jpg",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image4.jpg",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image4.jpg",
         "packagePath": "/word/media/image4.jpg"
       }
     ]
   },
+  "/word/diagrams/layout1.xml": {
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/layout1.xml",
+    "packagePath": "/word/diagrams/layout1.xml",
+    "mediaType": "application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml"
+  },
+  "/word/diagrams/quickStyle1.xml": {
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/quickStyle1.xml",
+    "packagePath": "/word/diagrams/quickStyle1.xml",
+    "mediaType": "application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml"
+  },
   "/word/diagrams/drawing1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/drawing1.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/drawing1.xml",
     "packagePath": "/word/diagrams/drawing1.xml",
     "mediaType": "application/vnd.ms-office.drawingml.diagramDrawing+xml",
     "rels": [
@@ -365,7 +375,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "../media/image5.jpg",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image5.jpg",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image5.jpg",
         "packagePath": "/word/media/image5.jpg"
       },
       {
@@ -373,90 +383,80 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
         "target": "../media/image4.jpg",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image4.jpg",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image4.jpg",
         "packagePath": "/word/media/image4.jpg"
       }
     ]
   },
-  "/word/diagrams/layout1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/layout1.xml",
-    "packagePath": "/word/diagrams/layout1.xml",
-    "mediaType": "application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml"
-  },
-  "/word/diagrams/quickStyle1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/quickStyle1.xml",
-    "packagePath": "/word/diagrams/quickStyle1.xml",
-    "mediaType": "application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml"
-  },
   "/word/media/image1.png": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image1.png",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image1.png",
     "packagePath": "/word/media/image1.png",
     "mediaType": "image/png"
   },
-  "/word/media/image3.png": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image3.png",
-    "packagePath": "/word/media/image3.png",
-    "mediaType": "image/png"
-  },
   "/word/media/image2.jpeg": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image2.jpeg",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image2.jpeg",
     "packagePath": "/word/media/image2.jpeg",
     "mediaType": "image/jpeg"
   },
+  "/word/media/image3.png": {
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image3.png",
+    "packagePath": "/word/media/image3.png",
+    "mediaType": "image/png"
+  },
   "/word/media/image4.jpg": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image4.jpg",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image4.jpg",
     "packagePath": "/word/media/image4.jpg",
     "mediaType": "image/jpeg"
   },
   "/word/media/image5.jpg": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image5.jpg",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image5.jpg",
     "packagePath": "/word/media/image5.jpg",
     "mediaType": "image/jpeg"
   },
   "/word/media/image6.png": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image6.png",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image6.png",
     "packagePath": "/word/media/image6.png",
     "mediaType": "image/png"
   },
   "/word/media/image7.png": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image7.png",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image7.png",
     "packagePath": "/word/media/image7.png",
     "mediaType": "image/png"
   },
-  "/word/media/image8.png": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image8.png",
-    "packagePath": "/word/media/image8.png",
-    "mediaType": "image/png"
-  },
   "/word/media/image9.png": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/media/image9.png",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image9.png",
     "packagePath": "/word/media/image9.png",
     "mediaType": "image/png"
   },
+  "/word/media/image8.png": {
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/media/image8.png",
+    "packagePath": "/word/media/image8.png",
+    "mediaType": "image/png"
+  },
   "/word/theme/theme1.xml": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/theme/theme1.xml",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/theme/theme1.xml",
     "packagePath": "/word/theme/theme1.xml",
     "mediaType": "application/vnd.openxmlformats-officedocument.theme+xml"
   },
   "/word/diagrams/_rels/data1.xml.rels": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/_rels/data1.xml.rels",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/_rels/data1.xml.rels",
     "packagePath": "/word/diagrams/_rels/data1.xml.rels",
     "mediaType": "application/vnd.openxmlformats-package.relationships+xml"
   },
   "/word/diagrams/_rels/drawing1.xml.rels": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/diagrams/_rels/drawing1.xml.rels",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/diagrams/_rels/drawing1.xml.rels",
     "packagePath": "/word/diagrams/_rels/drawing1.xml.rels",
     "mediaType": "application/vnd.openxmlformats-package.relationships+xml"
   },
   "/": {
-    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/",
+    "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/",
     "rels": [
       {
         "id": "rId3",
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties",
         "target": "docProps/app.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/docProps/app.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/docProps/app.xml",
         "packagePath": "/docProps/app.xml"
       },
       {
@@ -464,7 +464,7 @@
         "type": "http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties",
         "target": "docProps/core.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/docProps/core.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/docProps/core.xml",
         "packagePath": "/docProps/core.xml"
       },
       {
@@ -472,7 +472,7 @@
         "type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument",
         "target": "word/document.xml",
         "targetMode": "",
-        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-69697qAE66d3Ec8yY/word/document.xml",
+        "fullPath": "/var/folders/d8/9201tbv967q7fd7v1qc_gvnm0000gn/T/tmp-71216LQuB9CRwu8SF/word/document.xml",
         "packagePath": "/word/document.xml"
       }
     ]

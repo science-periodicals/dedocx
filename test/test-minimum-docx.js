@@ -47,7 +47,7 @@ describe('Minimum docx', () => {
   it('should extract hyperlinks', () => {
     assert.equal(
       doc.querySelector('a').getAttribute('href'),
-      'https://science.ai/'
+      'https://sci.pe/'
     );
     assert.equal(doc.querySelector('a > span').innerHTML, 'hyperlink');
   });
