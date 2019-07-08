@@ -1,6 +1,6 @@
 {
   "name": "@scipe/dedocx",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "MS Word (docx) to HTML conversion",
   "main": "dist/index.js",
   "scripts": {
@@ -48,7 +48,7 @@
     "walker"
   ],
   "eslintConfig": {
-    "extends": "scienceai"
+    "extends": "@scipe"
   },
   "contributors": [
     "Robin Berjon",
@@ -95,6 +95,7 @@
     "@babel/plugin-transform-runtime": "^7.2.0",
     "@babel/preset-env": "^7.3.1",
     "@babel/register": "^7.0.0",
+    "@scipe/eslint-config": "^1.0.0",
     "eslint-config-scienceai": "^4.4.0",
     "mocha": "^5.1.1",
     "prettify-xml": "^1.2.0",
