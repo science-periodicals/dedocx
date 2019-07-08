@@ -6,6 +6,9 @@
 
 [sci.pe](https://sci.pe) low level library for OOXML to HTML conversion.
 
+Note: this module is auto published to npm on CircleCI. Only run `npm version
+patch|minor|major` and let CI do the rest.
+
 This library converts from MS Word docx files to HTML in the dumbest way
 possible. That is to say that it does almost nothing beyond producing a lot of
 `div`s, `span`s, and `p`s. Apart from a very limited set of very obvious
