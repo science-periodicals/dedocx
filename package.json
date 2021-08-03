@@ -81,7 +81,7 @@
     "tmp": "0.0.33",
     "url-regex": "^4.1.1",
     "windows-1252": "^1.0.0",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.6.0",
     "xmlserializer": "^0.6.1",
     "xpath": "0.0.24",
     "yauzl": "^2.8.0"
