@@ -62,7 +62,7 @@
   "homepage": "https://github.com/science-periodicals/dedocx",
   "dependencies": {
     "@babel/runtime": "^7.2.0",
-    "async": "^2.4.1",
+    "async": "^3.2.2",
     "commander": "^2.19.0",
     "debug": "^4.1.1",
     "doi-regex": "^0.1.4",
